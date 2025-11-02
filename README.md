@@ -12,3 +12,12 @@
 - Introduces redundant merge commits that only exist to connect history, adding no functional code value.
 
 # git rebase
+
+- Current change là của nhánh main
+- Incoming change là của nhánh con
+
+- git rebase main
+- fix conflict
+- git add .
+- git rebase --continue
+- :wq
