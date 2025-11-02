@@ -1,3 +1,7 @@
 // This is the commit a
 
 // This is the commit of the feature/a
+
+// This is the first commit of the feature/a to test the git rebase
+
+// This is the second commit of the feature/a to test the git rebase
