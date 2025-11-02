@@ -1,3 +1,5 @@
 // This is the commit b
 
 // This is the commit of the feature/a
+
+// This is the commit of the feature/b
